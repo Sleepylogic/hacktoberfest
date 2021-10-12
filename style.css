@@ -3,7 +3,7 @@
   }
   
   body {
-    background-color: rgb(7, 7, 7);
+    background-color: rgb(70, 69, 70);
     height: 100vh;
     margin: 0;
   }
@@ -15,7 +15,7 @@
     font-size: 60px;
     margin: 20px;
     max-width: auto;
-    color: rgb(209, 205, 205);
+    color: rgb(185, 184, 184);
   }
 
   .container {
@@ -31,8 +31,8 @@
     display: flex;
     justify-self: center;
     align-items: center;
-    background-color: #1d1d1d;
-    box-shadow: 3px 3px 25px rgb(255, 255, 255);
+    background-color: #2e2d2e;
+    box-shadow: 0px 0px 12px rgb(238, 200, 240);
     height: 33px;
     width: 38px;
     margin: 1px;
